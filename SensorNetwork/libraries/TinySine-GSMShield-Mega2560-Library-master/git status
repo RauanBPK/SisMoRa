@@ -1,0 +1,56 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 0595e70..6d1a75e 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,47 @@[m
+[31m-# TinySine-GSMShield-Mega2560-Library[m
+[31m-An updated Library for the TinySine GSM Shield, tailored for the Arduino Mega2560.  It's a modification of the original library found at http://www.tinyosshop.com/index.php?route=product/product&amp;product_id=464 which had terminal bugs for the mega.[m
+[32m+[m[32mGSM/GPRS & GPS Shield Library for modules using SIM900/SIM908[m
+[32m+[m[32m======[m
+[32m+[m[32mNOTE: This repo has been migrated from google code repo: http://code.google.com/p/gsm-shield-arduino/[m
+[32m+[m
+[32m+[m
+[32m+[m[32mFor informations and support:[m
+[32m+[m[32m- http://www.gsmlib.org/[m
+[32m+[m[32m- http://code.google.com/p/gsm-shield-arduino/[m
+[32m+[m[32m- http://www.open-electronics.org/arduino-gsm-shield/[m
+[32m+[m[32m- http://www.futurashop.it/[m
+[32m+[m
+[32m+[m[32mBasic Function overview: [Overview](https://raw.github.com/MarcoMartines/GSM-GPRS-GPS-Shield/GSMSHIELD/README)[m
+[32m+[m
+[32m+[m[32m### Install Notes:[m
+[32m+[m[32m- Download current release:[m
+[32m+[m	[32m- Generic Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07.1.zip)[m
+[32m+[m	[32m- TiDiGino Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07_TDG.zip)[m
+[32m+[m[32m- Extract to your arduino/libraries folder[m
+[32m+[m
+[32m+[m[32m### LICENSE:[m
+[32m+[m[32mGNU GPL v3 except where noted otherwise.[m
+[32m+[m
+[32m+[m[32mThis program is free software: you can redistribute it and/or modify[m[41m [m
+[32m+[m[32mit under the terms of the GNU General Public License as published by[m
+[32m+[m[32mthe Free Software Foundation, either version 3 of the License.[m
+[32m+[m
+[32m+[m[32mThis program is distributed in the hope that it will be useful,[m
+[32m+[m[32mbut WITHOUT ANY WARRANTY; without even the implied warranty of[m
+[32m+[m[32mMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the[m
+[32m+[m[32mGNU General Public License for more details.[m
+[32m+[m
+[32m+[m[32mYou should have received a copy of the GNU General Public License[m
+[32m+[m[32malong with this program.  If not, see <http://www.gnu.org/licenses/>.[m
+[32m+[m
+[32m+[m[32m### Contributers:[m
+[32m+[m
+[32m+[m[32mContributions have been made by the following organizations:[m
+[32m+[m[32m- [GSMLIB.org](http://www.gsmlib.org)[m
+[32m+[m[32m- [Open-Electronics](http://www.open-electronics.org/arduino-gsm-shield/)[m
+[32m+[m[32m- [Futura Elettronica](http://www.futurashop.it)[m
+[32m+[m[32m- [Hwkitchen](http://www.hwkitchen.com)[m
+[32m+[m
+[32m+[m[32mAs well as, but not limited to, the following individuals:[m
+[32m+[m[32m - [@MarcoMartines](https://github.com/MarcoMartines)[m
+[32m+[m[32m - [@madmaze](https://github.com/madmaze)[m
+[32m+[m[32m - commiters from google code: https://code.google.com/p/gsm-shield-arduino/people/list[m
+[32m+[m[32mnames listed in no particular order.[m
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory.

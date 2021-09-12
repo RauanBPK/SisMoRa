@@ -1,0 +1,23 @@
+
+UNO
+VCC - 5V - red
+GND - GND - white
+CE -  7 - blue
+CSN - 8 - orange
+SCK - 13 - green
+MOSI - 11 - light blue
+MISO - 12 - light green
+
+
+MEGA:
+
+GND  -  GND - white
+VCC  -  5V  - red
+CE   -  53  - blue
+CSN  -  48  - orange
+SCK  -  52  - green
+MOSI -  51  - light blue
+MISO -  50  - light green
+
+
+
