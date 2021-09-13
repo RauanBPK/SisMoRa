@@ -22,9 +22,9 @@ The project can be divided into 3 major parts:
 3.  **Graphs** - Show graphs for a range of readings. Plots pH and TDS.
 
 <p float="left">
-<img src="/imgs/inicial.jpeg" width="300">
-<img src="/imgs/historico.jpeg" width="300">
-<img src="/imgs/graficos.jpeg" width="300">
+<img src="/imgs/inicial.jpeg" width="200">
+<img src="/imgs/historico.jpeg" width="200">
+<img src="/imgs/graficos.jpeg" width="200">
 </p>
 
 ## Room for improvment _OR_ How I realized that _"the buraco was mais embaixo"_
