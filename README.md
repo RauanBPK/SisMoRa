@@ -28,7 +28,7 @@ The project can be divided into 3 major parts:
 <img src="/imgs/graficos.jpeg" width="250">
 </p>
 
-## Room for improvment _OR_ How I realized that _"the buraco was mais embaixo"_
+## Room for improvement _OR_ How I realized that _"the buraco was mais embaixo"_
 Limited by the (few) available hardware at the lab, and therefore limited by the technologies that could be used, some (sometimes important) details were not
 implemented in this version. 
 
