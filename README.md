@@ -1,4 +1,5 @@
-# SisMoRa
+# SisMoRa <img src="/APP/mobile/SisMoRA-app/assets/icon.png" width="50">
+
 Sistema de Monitoramento do Rio Araranguá - TCC Version
 
 (Araranguá's River Monitoring System)
